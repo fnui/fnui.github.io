@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="485"
+   height="485"
+   viewBox="0 0 485 485.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fnui_logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5681"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#477d00;stop-opacity:1;"
+         offset="0"
+         id="stop5683" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5651"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#5a970c;stop-opacity:1;"
+         offset="0"
+         id="stop5653" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3377">
+      <stop
+         style="stop-color:#c6e9af;stop-opacity:1;"
+         offset="0"
+         id="stop3379" />
+      <stop
+         style="stop-color:#477d00;stop-opacity:0.61176473"
+         offset="1"
+         id="stop3381" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3377"
+       id="linearGradient3383"
+       x1="185.12952"
+       y1="244.39458"
+       x2="550.17291"
+       y2="612.97839"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98360656,0,0,0.9836066,-118.38912,388.58611)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1193865"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.1811"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2"
+     style="display:inline"
+     transform="translate(0,-567.36209)">
+    <path
+       style="fill:url(#linearGradient3383);fill-opacity:1;stroke:#496a2e;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.53500001"
+       d="m 17.454236,584.36417 -15.0000004,44.9762 0,360 15.0000004,45.02383 44.74258,15 360.200004,0 45.05742,-15 15,-45.02383 0,-360 -15,-44.9762 -45.05742,-15 -199.6,0 -160.400004,0 z"
+       id="rect3369"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-xdpi="148.45361"
+       inkscape:export-ydpi="148.45361" />
+  </g>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-567.36209)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:217.73522949px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.601906"
+       y="757.63721"
+       id="text3344"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98106072,1.0193049)"><tspan
+         sodipodi:role="line"
+         id="tspan3346"
+         x="25.601906"
+         y="757.63721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stencil;-inkscape-font-specification:Stencil">[FN]</tspan><tspan
+         sodipodi:role="line"
+         x="25.601906"
+         y="1029.8063"
+         id="tspan3350"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stencil;-inkscape-font-specification:Stencil" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:325.07388306px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.570345"
+       y="1234.6721"
+       id="text3354"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2274926,0.81466887)"><tspan
+         sodipodi:role="line"
+         id="tspan3356"
+         x="23.570345"
+         y="1234.6721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Stencil;-inkscape-font-specification:Stencil">UI</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3358"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3360"><rect
+           id="rect3362"
+           width="374.28571"
+           height="408.57144"
+           x="225.71428"
+           y="755.21936" /></flowRegion><flowPara
+         id="flowPara3364" /></flowRoot>  </g>
+</svg>
